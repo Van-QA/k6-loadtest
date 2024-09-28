@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://deep-index.moralis.io/api/v2.2/0xff3879b8a363aed92a6eaba8f61f1a96a9ec3c1e/nft",
+    "params": {
+      "headers": {
+        "accept": "application/json",
+        "X-API-Key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6ImNhMzUwZjA1LTg3OTEtNDAzYy05N2FkLTQ4ZTIwYWQ0NTRhZCIsIm9yZ0lkIjoiNDA5MTgzIiwidXNlcklkIjoiNDIwNDcyIiwidHlwZUlkIjoiNzVjZTVkZjMtODk2OS00MmIwLTkyNmYtNTQ5MTY3MmMxY2JjIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3MjcxMDk0MjEsImV4cCI6NDg4Mjg2OTQyMX0.iV58HiFumlUdV7pluF4cNwBCFaSiP_0Oa7TdbYElitE"
+      },
+      "chain": "eth",
+      "format": "decimal",
+      "media_items": "false"
+    }
+  }
+]
